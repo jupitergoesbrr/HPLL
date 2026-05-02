@@ -3,10 +3,10 @@
     --color-on-background: white;
     --color-background-hover: #0f0f0f;
     --color-on-background-hover: white;
-    --color-primary: #360101;
-    --color-on-primary: black;
+    --color-primary: #940000;
+    --color-on-primary: white;
     --color-error: #de0000;
-    --color-on-error: black;
+    --color-on-error: white;
 }
 
 main.dark,
