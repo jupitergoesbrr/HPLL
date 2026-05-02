@@ -2,11 +2,11 @@
     --color-background: white;
     --color-on-background: black;
     --color-background-hover: #0f0f0f;
-    --color-on-background-hover: black;
+    --color-on-background-hover: white;
     --color-primary: #d91630;
     --color-on-primary: black;
     --color-error: #de0000;
-    --color-on-error: black;
+    --color-on-error: white;
 }
 
 main.dark,
